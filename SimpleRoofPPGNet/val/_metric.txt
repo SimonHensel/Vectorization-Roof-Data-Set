@@ -1,0 +1,2 @@
+corners - precision: 0.000 recall: 0.000 f_score: 0.000
+edges - precision: 0.000 recall: 0.000 f_score: 0.000

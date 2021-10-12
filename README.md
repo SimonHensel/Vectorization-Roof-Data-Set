@@ -6,9 +6,9 @@ A Roof Data set for training and testing the PPGNet.
 	Ready to use data set for use with the PPGNet.
 - SimpleRoofTXT:
 	General format for any usage. *.txt*-Files are structured as following:
-	- Junctions
-	- Line segments
-	- Adjacency matrix 
+	- Junctions (#1#)
+	- Line segments (#2#)
+	- Adjacency matrix (#3#)
 
 # ACKNOWLEDGMENTS
 The authors are grateful to Aaron Heyde,
